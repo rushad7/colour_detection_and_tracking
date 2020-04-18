@@ -1,2 +1,2 @@
-# colour_detection_and_tracking
-This MATLAB scrpit detects the required / selected color and tracks it by mounting the camera on a servo motor.
+# Colour Detection and Tracking
+This MATLAB scrpit detects the required / selected color and tracks it via a camera mounted on a servo motor.
